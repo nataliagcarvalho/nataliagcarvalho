@@ -45,7 +45,5 @@
 
 
 [![Linkedin: Natália Carvalho](https://img.shields.io/badge/-nataliacarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliagscarvalho/)](https://www.linkedin.com/in/nataliagscarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-nataliagsantanna@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nataliagsantanna@hotmail.com)](mailto:nataliagsantanna@hotmail.com)
-[![image](https://img.shields.io/badge/nataliagsantanna@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nataliagsantanna@hotmail.com)
 [![image](https://img.shields.io/badge/nataliagsantanna@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:nataliagsantanna@hotmail.com)
 [![GitHub Natália Carvalho]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/nataliagcarvalho)
