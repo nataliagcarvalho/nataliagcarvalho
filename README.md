@@ -1,6 +1,6 @@
 ### Hi there! My name is Natália Carvalho 👋
 
-- :woman: Petroleum Engineer in love with numbers, logic and challenges;
+- :woman:&nbsp; Petroleum Engineer in love with numbers, logic and challenges;
 
 - 🤔 &nbsp; Changing career into Data Analyst, in order to help companies make data-driven decisions;
 
