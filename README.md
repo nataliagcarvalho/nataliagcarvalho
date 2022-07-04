@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Changing career into Data Analyst, in order to help companies make data-driven decisions;
 
-- 🎓 &nbsp; Studying Data Analytics at <a href="https://www.laboratoria.la/br">Laboratoria</a> in partnership with <a href="https://www.ibm.com/br-pt">IBM</a> and at  ;
-<a href="https://www.digitalhouse.com/br">Digital House</a> in partnership with <a href="https://medium.com/ifood-tech">iFood</a>;
+- 🎓 &nbsp; Studying Data Analytics at <a href="https://www.laboratoria.la/br">Laboratoria</a> in partnership with <a href="https://www.ibm.com/br-pt">IBM</a> and at <a href="https://www.digitalhouse.com/br">Digital House</a> in partnership with <a href="https://medium.com/ifood-tech">iFood</a>;
 
 - 🚀 &nbsp; Courses' Scope:
 
