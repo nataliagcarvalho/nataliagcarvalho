@@ -19,7 +19,7 @@
              Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining, Data Visualization, Data Pipelines, 
              Descriptive Statistics, Business Intelligence and Python.
 
-- 💼 &nbsp; My main field of study is **Data Analysis**
+- 💼 &nbsp; My main field of study is **Data Analysis**;
 
 - 🌱 &nbsp; Learning more about **Data Viz and Statistic**.
 
